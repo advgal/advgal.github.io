@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768300471915,
+  "timestamp": 1768778209950,
   "index": "/schachbrett/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/schachbrett/favicon.ico",
         "/schachbrett/index.html",
-        "/schachbrett/main-DHDNMRU4.js",
+        "/schachbrett/main-H2SFQUTI.js",
         "/schachbrett/manifest.webmanifest",
         "/schachbrett/styles-4GAD7AQM.css"
       ],
@@ -50,8 +50,8 @@
     "/schachbrett/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/schachbrett/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/schachbrett/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/schachbrett/index.html": "56e7ec9e897e558805d50fe9b4419b8461322773",
-    "/schachbrett/main-DHDNMRU4.js": "f9489f57cf0bb98b01f195a1a4df55d37f303cc9",
+    "/schachbrett/index.html": "1682cb125f1844052b3303fcd5a4e3034c13bea8",
+    "/schachbrett/main-H2SFQUTI.js": "bae61ab1f4c63bb52bb008c151f5f675117ab515",
     "/schachbrett/manifest.webmanifest": "e39cc3ba1a1b793dd2959974acdc3892e7a2bbc5",
     "/schachbrett/styles-4GAD7AQM.css": "2861c92df87e9b856e9bb81c21858d58074ad73a"
   },
